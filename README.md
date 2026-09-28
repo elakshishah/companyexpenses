@@ -1,2 +1,2 @@
 # companyexpenses
-Analysis of a fictitious companies expenses
+Analysis of a fictitious company's expenses
